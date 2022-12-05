@@ -4,6 +4,6 @@ src-git routing https://git.openwrt.org/feed/routing.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
-# src-git chardsonRi https://github.com/chardsonRi/openwrt-packages.git
+src-git chardsonRi https://github.com/chardsonRi/openwrt-packages.git
 src-git bypass https://github.com/Cneupa/luci-app-bypass.git
 src-git openclash https://github.com/vernesong/OpenClash.git
